@@ -9,15 +9,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  I'm a <strong>Computer Science student</strong> passionate about building intelligent, scalable, and impactful technology.<br>
-  My interests lie in <strong>Machine Learning</strong>, <strong>Full-Stack Web Development</strong>, and <strong>Systems Programming</strong>.
-</p>
-
-<p align="center">
-  I enjoy turning complex problems into practical, beautiful solutions — whether it’s <strong>training deep learning models</strong>,  
-  developing <strong>modern web apps</strong>, or exploring <strong>system-level programming</strong>.
-</p>
 
 <p align="center">
   🧠 Working on <strong>deep learning for time-series data</strong><br>
