@@ -107,5 +107,5 @@
 ---
 
 <p align="center">
-  <sub>⚡ Built with ❤️ by <strong>Sherwin Infano</strong> | © 2025</sub>
+  <sub> Built with by <strong>Sherwin Infano</strong> | © 2025</sub>
 </p>
