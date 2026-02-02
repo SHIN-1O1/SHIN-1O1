@@ -7,13 +7,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 
 <p align="center">
-  🧠 Working on <strong>deep learning for time-series data</strong><br>
-  ⚖️ Building <strong>RAG-based AI assistants</strong> for legal document analysis<br>
-  🌐 Developing <strong>full-stack applications</strong> using React, Flask & Firebase
+   Working on <strong>deep learning for time-series data</strong><br>
+   Building <strong>RAG-based AI assistants</strong> for legal document analysis<br>
+   Developing <strong>full-stack applications</strong> using React, Flask & Firebase
 </p>
 
 ---
@@ -54,24 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHIN-1O1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIN-1O1&theme=tokyonight&hide_border=true&background=0D1117" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIN-1O1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SHIN-1O1&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🧭 Connect with Me 🌐
+## Connect with Me 🌐
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Let's+Connect+and+Collaborate!;Open+to+Projects%2C+Ideas%2C+and+Innovation!;Feel+free+to+Reach+Out+%F0%9F%9A%80" alt="Typing SVG" />
@@ -96,7 +79,7 @@
 
 ---
 
-## 💬 Developer Quote
+##  Developer Quote
 
 <p align="center">
   <em>“They say AI will take over the world.<br>
