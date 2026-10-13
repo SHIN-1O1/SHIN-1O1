@@ -12,7 +12,7 @@
 
 <p align="center">
    Working on <strong>deep learning for time-series data</strong><br>
-   Building <strong>RAG-based AI assistants</strong> for legal document analysis<br>
+   Building <strong>RAG-based AI assistants</strong> <br>
    Developing <strong>full-stack applications</strong> using React, Flask & Firebase
 </p>
 
